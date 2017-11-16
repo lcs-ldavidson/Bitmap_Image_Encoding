@@ -32,7 +32,7 @@ for character in encodedBitmap {
     print(character)
 }
 
-// I notice that...
+// I notice that the code is producing a printed form of the string below.
 /*:
  Now, **remember to commit and push your work**.
  */
