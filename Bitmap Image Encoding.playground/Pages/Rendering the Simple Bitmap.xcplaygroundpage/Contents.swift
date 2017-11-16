@@ -43,6 +43,9 @@ for character in encodedBitmap {
     x += 20
 }
 
+
+
+
 /*:
  ### Check the results
  Does the output match what you'd expect, based on the values in the encoded string?
@@ -51,8 +54,8 @@ for character in encodedBitmap {
  
  Write your ideas in the code comment below.
  */
-// I notice that...
-// I know this because...
+// I notice that, for every one on the string line, there is a white square, while every zero makes a black square.
+// I know this because I have compared the grid to the string that was created, and seen that the value of character determines, in the loop, what the squares fill colour is.
 /*:
  Now, **remember to commit and push your work**.
  */
