@@ -18,3 +18,9 @@
  This will help you make a plan for the program we will write in Swift in our next class.
  
  */
+// The decisions I made: I chose to leave the first number of squares white, and then alternated between black and white.
+
+// (I do not fully understand what you mean by "What decisions did you make? List the decisions you made in as much detail as possible.")
+
+
+
