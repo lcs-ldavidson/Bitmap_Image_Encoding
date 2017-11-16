@@ -15,7 +15,7 @@ import PlaygroundSupport
  */
 let encodedBitmap = getEncodedBitmapString()
 
-// I notice that...
+// I notice that the numbers generated are only ones and zeros. I estimate that the number of ones are how many white dots there are in succession, while the zeros represent black pixels.
 /*:
  Now, **remember to commit and push your work**.
  */
